@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## About me 🤝
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=DummyKitty&theme=great-gatsby&show_icons=true" width="450">
+
 - 💻 Web Security
 
 - 🏥 Medicine lover (taught by girlfriend)
