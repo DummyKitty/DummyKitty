@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 -  https://DummyKitty.github.io/
 
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DummyKitty" alt="DummyKitty" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DummyKitty&theme=onedark" alt="DummyKitty" /></a></p>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DummyKitty&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
