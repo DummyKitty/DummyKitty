@@ -20,13 +20,9 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=DummyKitty&theme=great-gatsby&show_icons=true" width="450">
 
 - 💻 Web Security
-
 - 🏥 Medicine lover (taught by girlfriend)
-
 - 👨‍🎓 Trying to further improve education.
-
 - 📚 love reading. Through books ,I can visit places I have never been, can experience life I have never experienced.
-
 - 🛌 sleep problems
 ## Env
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
