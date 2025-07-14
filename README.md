@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=E6F70E&letr=true&vCenter=true&random=false&width=500&height=30&lines=A+passionate+Security+Researcher+from+Mars+)](https://git.io/typing-svg)
+
+
+<img src="https://media.tenor.com/CliO9z1BM2wAAAAj/bongo-cat-gif-transparent.gif">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=DummyKitty&theme=great-gatsby&show_icons=true" width="400">
 
