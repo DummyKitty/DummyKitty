@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.tenor.com/CliO9z1BM2wAAAAj/bongo-cat-gif-transparent.gif">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=DummyKitty&theme=great-gatsby&show_icons=true" width="400">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=DummyKitty&theme=great-gatsby&show_icons=true" width="400"> -->
 
 - 💻 Web Security
 - 🏥 Medicine lover (taught by girlfriend)
